@@ -1,40 +1,40 @@
-name: EIM
-favicon: null
 layout_spectrum: 0.29008
-typography_spectrum: 0.9763593156822026
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.9317032
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#D95604'
     - '#F4BE26'
     - '#E669A1'
-  brandStrength: 0.9317032
-  lightness: 1
-  saturation: 0.2518499528523535
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1964587
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: EIM
