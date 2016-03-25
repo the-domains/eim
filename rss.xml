@@ -4,15 +4,8 @@
         <description><![CDATA[EIM]]></description>
         <link>https://thegrid.ai/eim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 22:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 09:59:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eim/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/411218cb-b981-44a5-aa09-6a7168b2f1d8.png">]]></description>
-            <link>https://thegrid.ai/eim/d3c3bb6b-d470-4a3f-bc98-5dd68deabe5f/index.html</link>
-            <guid isPermaLink="false">d3c3bb6b-d470-4a3f-bc98-5dd68deabe5f</guid>
-            <pubDate>Fri, 19 Feb 2016 22:35:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[title]]></title>
             <description><![CDATA[<article><h1>title</h1><p>abc</p></article>]]></description>
